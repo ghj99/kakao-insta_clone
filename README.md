@@ -1,4 +1,4 @@
-# kakao_clone
+# kakao, insta_clone
 
 
 
