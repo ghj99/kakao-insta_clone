@@ -1,0 +1,34 @@
+#main-container {
+    text-align: center;
+    width: 480px;
+    height: 800px;
+    background-color: rgb(255, 166,166, 1);
+    position: relative;
+    border-style: solid;
+    border-color: rgb(187, 187, 187);
+    border-width: 1px;
+    margin: 0 auto;
+
+#1st_row {
+    display:flex;
+}
+
+.myicon {
+    display:flex;
+    flex-direction:row;
+}
+
+.icon-wrapper {
+    margin-top: 30px;
+    width: 30px;
+    height: 30px;
+}
+
+.icon {
+    width: 54px;
+    height: 54px;
+}
+
+.small-text {
+    font-size: 12px;
+}
